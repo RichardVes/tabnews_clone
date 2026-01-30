@@ -1,4 +1,4 @@
-# 📰 Tab News Frase
+# 📰 Clone do "Tab News"
 
 Aplicação web desenvolvida com **Next.js** para estudos no curso **CURSO.DEV**.
 
@@ -56,5 +56,4 @@ https://tab-news-frase-aysm.vercel.app
   npm run dev
 
 5.Acesse no navegador:
-
-http://localhost:3000
+   http://localhost:3000
