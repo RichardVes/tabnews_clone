@@ -1,4 +1,4 @@
 function Home() {
-  return <h1> Amore está aparecendo essa mensagem?</h1>;
+  return <h1> Aula 06 - concluida!</h1>;
 }
 export default Home;
