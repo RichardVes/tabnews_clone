@@ -1,0 +1,19 @@
+# Lista de comandos
+
+| COMANDOS                                   | DESCRIÇÃ0                                                                                                                                                                                 |
+| ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **git log**                                | Mostrar os registros(fotos) do repositorio                                                                                                                                                |
+| **git log --stat**                         | Mostra de forma resumida o que é mostrado no github [Se ficar preso aperte a tecla Q]                                                                                                     |
+| **git log --oneline**                      | Retorna os mesmos logs ainda mais resumida em uma linha                                                                                                                                   |
+| **git status**                             | Mostra as diferenças (local e remoto) desde o ULTIMO COMMIT                                                                                                                               |
+| **git add (nome do arquivo ou diretorio)** | Adiciona o arquivo ou diretorio em evidencia (palco), deixando os como STAGE, esperando o COMMIT                                                                                          |
+| **git commit**                             | Escreve uma mensagem "Comenta" os arquivos que estão como STAGE                                                                                                                           |
+| **git commit -m "(mensagem)"**             | Forma resumida direto na linha de comando, sem a necessidade de outro aplicativo                                                                                                          |
+| **git commit --amend**                     | O GIT pega o que esta como STAGE e EMENDA com o commit anterior, [Ele meio que junta os arquivos em STAGE com o commit anterior como se tevesse upado eles dessa forma no passado]        |
+| **git diff**                               | Compara a versão anterior com a versão atual e DESTACA A DIFERENÇA                                                                                                                        |
+| **git push**                               | Empurra os arquivos para o diretorio REMOTO do git                                                                                                                                        |
+| **git push --force** ou _-f_               | Força empurrar os arquivos que estão em STAGE para o servidor REMOTO, [Empurra forçadamente um push quando os arquivos local e remoto estão divergentes da linha do tempo]                |
+| **git push --force-with-lease**            | É a forma "segura" de forçar o push, pois só sobrescreve o remoto se a sua cópia local estiver atualizada. Ou seja, ele evita apagar commits que outros possam ter enviado para o remoto. |
+
+| **git pull** | Faz o DOWNLOAD dos arquivos REMOTOS para o repositorio LOCAL |
+| **git restore --staged (nome-do-arquivo)** | Isso remove o arquivo do stage (palco), mas mantém as alterações no seu arquivo local. |
