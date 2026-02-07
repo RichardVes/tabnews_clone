@@ -1,4 +1,4 @@
-# 📰 Clone do "Tab News"
+# Clone do "Tab News"
 
 Aplicação web desenvolvida com **Next.js** para estudos no curso **CURSO.DEV**.
 
@@ -6,14 +6,14 @@ O projeto tem como objetivo praticar **desenvolvimento frontend moderno** e **de
 
 ---
 
-## 🚀 Demo Online
+## Deploy Online
 
-👉 **Acesse a aplicação:**  
+**Acesse a aplicação:**  
 https://tabnews-clone-sigma-seven.vercel.app/
 
 ---
 
-## 🎯 Objetivos do Projeto
+## Objetivos do Projeto
 
 - Trabalhar com **Next.js**
 - Estruturar um projeto frontend moderno
@@ -22,7 +22,7 @@ https://tabnews-clone-sigma-seven.vercel.app/
 
 ---
 
-## 🧠 Conceitos Aplicados
+## Conceitos Aplicados
 
 - Next.js
 - Componentização
@@ -32,7 +32,7 @@ https://tabnews-clone-sigma-seven.vercel.app/
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Next.js**
 - **React**
@@ -41,19 +41,16 @@ https://tabnews-clone-sigma-seven.vercel.app/
 
 ---
 
-## ▶️ Como Executar Localmente
+## Como Executar Localmente
 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/RichardVes/tab-news-frase.git
 2. Acesse a pasta do projeto:
   cd tab-news-frase
-
 3. Instale as dependências:
   npm install
-
 4. Inicie o servidor de desenvolvimento:
   npm run dev
-
 5.Acesse no navegador:
    http://localhost:3000
