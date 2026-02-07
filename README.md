@@ -9,7 +9,7 @@ O projeto tem como objetivo praticar **desenvolvimento frontend moderno** e **de
 ## 🚀 Demo Online
 
 👉 **Acesse a aplicação:**  
-https://tab-news-frase-aysm.vercel.app
+https://tabnews-clone-sigma-seven.vercel.app/
 
 ---
 
