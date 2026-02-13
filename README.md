@@ -46,11 +46,12 @@ https://tabnews-clone-sigma-seven.vercel.app/
 1. Clone o repositório:
    ```bash
    git clone https://github.com/RichardVes/tab-news-frase.git
+   ```
 2. Acesse a pasta do projeto:
-  cd tab-news-frase
+   cd tab-news-frase
 3. Instale as dependências:
-  npm install
+   npm install
 4. Inicie o servidor de desenvolvimento:
-  npm run dev
+   npm run dev
 5. Acesse no navegador:
    http://localhost:3000
